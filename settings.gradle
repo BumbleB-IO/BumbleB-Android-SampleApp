@@ -1,0 +1,2 @@
+include ':app', ':BumbleBApi', ':volley'
+project(':BumbleBApi').projectDir = new File('../BumbleB-Android')
